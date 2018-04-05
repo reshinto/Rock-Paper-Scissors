@@ -1,2 +1,2 @@
-# Rock-Paper-Scissors
-Different ways to program a rock paper scissors game
+# Rock-Paper-Scissors using classes
+Run main.py to play
