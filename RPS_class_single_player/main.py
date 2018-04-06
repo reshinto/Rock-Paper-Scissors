@@ -2,7 +2,7 @@ import Player as pp
 import Computer as cc
 
 def intro():
-    text = "Welcome to my jan-ken-pon game!"
+    text = "Welcome to my Rock Paper Scissors game!"
     header = "#"*len(text)
     print(header)
     print(text)
