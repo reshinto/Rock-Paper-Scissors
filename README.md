@@ -8,4 +8,5 @@
       > javac RPSfunction.java
     * run file
       > java RPSfunction
+      
 ![Demo](./documents/demo.gif)
