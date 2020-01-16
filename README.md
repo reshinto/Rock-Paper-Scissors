@@ -1,11 +1,13 @@
 # Rock-Paper-Scissors
-* Different ways of creating a Rock Paper Scissors Game Project
-* How to run
-  * Python version
+
+- Different ways of creating a Rock Paper Scissors Game Project
+- How to run
+  - Python version
     > python3 main.py
-  * Java version
-    * compile
+  - Java version
+    - compile
       > javac RPSfunction.java
-    * run file
+    - run file
       > java RPSfunction
-![Demo](./documents/demo.gif)
+
+![Demo](./images/demo.gif)
